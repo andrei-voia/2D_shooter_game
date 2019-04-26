@@ -16,4 +16,4 @@ This is how the game looks right now
 
 This is how your bullets move
 
-![alt text](https://github.com/andrei-voia/2D_shooter_game/blob/master/Screenshot_2.png "looks")
+![alt text](https://github.com/andrei-voia/2D_shooter_game/blob/master/Screenshot_2.png "looks") 
