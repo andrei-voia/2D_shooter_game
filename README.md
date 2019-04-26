@@ -12,7 +12,7 @@ A simple 2D game shooter game, in which you have to destory all the remaining en
 
 This is how the game looks right now
 
-
+![alt text](https://github.com/andrei-voia/2D_shooter_game/blob/master/Screenshot_1.png "Logo Title Text 1")
 
 This is how your bullets move
 
